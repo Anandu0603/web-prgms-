@@ -1,0 +1,30 @@
+internal style tag 
+
+
+<html>
+<head>
+<title>internal style tag</title>
+</head>
+<style>
+body
+{
+text-align:center;
+}
+button{
+color:lightgoldenrodyyellow;font-size:30px;
+}.b1{
+background-color:red;
+}.b2{
+background-color:blue;
+}.b3{
+background-color:violet;
+}
+</style>
+<body>
+<h1> background color for button</h1>
+<button class="b1">Red color button </button>
+<button class="b2">Blue color button</button>
+<button class="b3">violet color button</button>
+
+</body>
+</html>
